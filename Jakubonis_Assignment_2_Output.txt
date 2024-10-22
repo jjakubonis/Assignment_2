@@ -1,0 +1,110 @@
+Critical Path time for best scenario:
+A starts at time 0
+B starts at time 0
+H ends at 362.0 hours in duration
+
+Critical Path time for expected scenario:
+A starts at time 0
+B starts at time 0
+H ends at 504.0 hours in duration
+
+Critical Path time for worst scenario:
+A starts at time 0
+B starts at time 0
+H ends at 760.0 hours in duration
+
+Solution variable values for best scenario:
+end_A = 4.0
+end_B = 80.0
+end_C = 34.0
+end_D1 = 34.0
+end_D2 = 64.0
+end_D3 = 64.0
+end_D4 = 224.0
+end_D5 = 284.0
+end_D6 = 254.0
+end_D7 = 284.0
+end_D8 = 292.0
+end_E = 160.0
+end_F = 332.0
+end_G = 312.0
+end_H = 362.0
+start_A = 0.0
+start_B = 0.0
+start_C = 4.0
+start_D1 = 4.0
+start_D2 = 34.0
+start_D3 = 34.0
+start_D4 = 64.0
+start_D5 = 224.0
+start_D6 = 224.0
+start_D7 = 254.0
+start_D8 = 284.0
+start_E = 80.0
+start_F = 292.0
+start_G = 292.0
+start_H = 332.0
+
+Solution variable values for expeccted scenario:
+end_A = 8.0
+end_B = 120.0
+end_C = 48.0
+end_D1 = 48.0
+end_D2 = 88.0
+end_D3 = 88.0
+end_D4 = 288.0
+end_D5 = 368.0
+end_D6 = 328.0
+end_D7 = 368.0
+end_D8 = 384.0
+end_E = 240.0
+end_F = 464.0
+end_G = 424.0
+end_H = 504.0
+start_A = 0.0
+start_B = 0.0
+start_C = 8.0
+start_D1 = 8.0
+start_D2 = 48.0
+start_D3 = 48.0
+start_D4 = 88.0
+start_D5 = 288.0
+start_D6 = 288.0
+start_D7 = 328.0
+start_D8 = 368.0
+start_E = 120.0
+start_F = 384.0
+start_G = 384.0
+start_H = 464.0
+
+Solution variable values for worst scenario:
+end_A = 16.0
+end_B = 200.0
+end_C = 96.0
+end_D1 = 76.0
+end_D2 = 136.0
+end_D3 = 136.0
+end_D4 = 416.0
+end_D5 = 516.0
+end_D6 = 476.0
+end_D7 = 536.0
+end_D8 = 560.0
+end_E = 360.0
+end_F = 680.0
+end_G = 640.0
+end_H = 760.0
+start_A = 0.0
+start_B = 0.0
+start_C = 16.0
+start_D1 = 16.0
+start_D2 = 76.0
+start_D3 = 76.0
+start_D4 = 136.0
+start_D5 = 416.0
+start_D6 = 416.0
+start_D7 = 476.0
+start_D8 = 536.0
+start_E = 200.0
+start_F = 560.0
+start_G = 560.0
+start_H = 680.0
